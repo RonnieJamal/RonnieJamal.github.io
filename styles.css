@@ -1,9 +1,13 @@
 html{
     background-color: black;
     color: white;
+    background-image: url(https://github.com/RonnieJamal/RonnieJamal.github.io/blob/main/broccoli.png?raw=true);
+    background-size: 30px;
 }
 h1{
     font-size: 20px;
+    border-bottom: burlywood;
+    border-style: solid;
 }
 p{
     font-size: 12px;
