@@ -8,6 +8,9 @@ h1{
     font-size: 20px;
     border-bottom: burlywood;
     border-style: solid;
+    border-right: 0px;
+    border-left: 0px;
+    border-style: solid;
 }
 p{
     font-size: 12px;
