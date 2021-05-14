@@ -5,7 +5,7 @@ html{
 h1{
     color: white;
     background-image: url(https://github.com/RonnieJamal/RonnieJamal.github.io/blob/main/broccoli.png?raw=true);
-    background-repeat: repeat-y;
+    background-repeat: repeat-x;
     background-size: 100px;
     background-color:tomato;
     opacity: 0.6;
