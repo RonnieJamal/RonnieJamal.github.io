@@ -1,7 +1,7 @@
 html{
     background-color: black;
     color: white;
-    background-image: url(https://github.com/RonnieJamal/RonnieJamal.github.io/blob/main/broccoli.png?raw=true)repeat top left;
+    background-image: url(https://github.com/RonnieJamal/RonnieJamal.github.io/blob/main/broccoli.png?raw=true)repeat-x top left;
     background-size: 80px;
 }
 h1{
