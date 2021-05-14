@@ -1,13 +1,11 @@
 html{
     background-color: black;
-    color: white;
-    background-image: url(https://github.com/RonnieJamal/RonnieJamal.github.io/blob/main/broccoli.png?raw=true)repeat-x top left;
-    background-size: 80px;
+    background-image: url(https://github.com/RonnieJamal/RonnieJamal.github.io/blob/main/broccoli.png?raw=true)repeat-y top left;
+    background-size: 30px;
 }
 h1{
     font-size: 20px;
     border-bottom: burlywood;
-    border-style: solid;
     border-right: 0px;
     border-left: 0px;
     border-style: solid;
@@ -20,12 +18,21 @@ div{
     border: dotted 2px;
     width: 100px;
     height: 100px;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
 }
 ol{
     list-style-type: lower-alpha;
 }
 ul{
     list-style-type: square;
+}
+#link2frontpage{
+    text-align: left;
+}
+#link2second{
+    text-align: left;
 }
 img{
     height: 50px;
