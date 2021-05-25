@@ -36,7 +36,7 @@ p{
     color: rgb(53, 37, 14);
 }
 div{
-    border:transparent 2px;
+    border:rgb(65, 46, 17) 2px;
     width: 100px;
     height: 100px;
     margin: 10px;
@@ -68,11 +68,12 @@ img{
     color: rgb(53, 37, 14);
     background-size: 50px;
     background-repeat: repeat-x;
+    background-repeat: repeat-y;
     opacity: 0.6;
-    font-size: 50px;
-    border-bottom: burlywood;
+    font-size: 100px;
+    border-bottom: rgb(39, 32, 24);
     border-right: 0px;
-    border-left:burlywood;
+    border-left:rgb(39, 32, 24);
     border-style:groove;
 }
 #aside{
