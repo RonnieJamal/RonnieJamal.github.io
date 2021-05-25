@@ -1,6 +1,7 @@
 html{
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(211, 192, 165, 0.671);
     color: rgb(153, 86, 47);
+    font-family: Arial, Helvetica, sans-serif;
 }
 body{
     width: 90%;
@@ -16,8 +17,18 @@ h1{
     font-size: 50px;
     border-bottom: burlywood;
     border-right: 0px;
-    border-left: 0px;
-    border-style: solid;
+    border-left:burlywood;
+    border-style:groove;
+}
+
+a{
+    color: chocolate;
+    text-decoration: none;
+    text-shadow: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+    
 }
 
 p{
@@ -44,11 +55,23 @@ img{
 }
 
 #section{
-color: khaki;
+
+    background-color: khaki;
+    color: rgb(53, 37, 14);
 }
 #header{
-    color: chocolate;
+    background-color: chocolate;
+    color: rgb(53, 37, 14);
 }
 #nav{
-    color: coral;
+    background-color: coral;
+    color: rgb(53, 37, 14);
+    background-size: 50px;
+    background-repeat: repeat-x;
+    opacity: 0.6;
+    font-size: 50px;
+    border-bottom: burlywood;
+    border-right: 0px;
+    border-left:burlywood;
+    border-style:groove;
 }
