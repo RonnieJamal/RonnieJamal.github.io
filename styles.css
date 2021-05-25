@@ -12,8 +12,6 @@ body{
     }
 h1{
     color: rgb(65, 46, 17);
-    background-repeat: repeat-x;
-    background-size: 150px;
     background-color:rgb(196, 148, 76);
     opacity: 0.6;
     font-size: 50px;
@@ -66,16 +64,14 @@ img{
     color: rgb(53, 37, 14);
 }
 #nav{
-    background-color: coral;
-    color: rgb(53, 37, 14);
-    background-size: 50px;
-    background-repeat: repeat-x;
-    background-repeat: repeat-y;
+    color: rgb(65, 43, 11);
+    background-color:rgb(245, 163, 41);
     opacity: 0.6;
-    font-size: 100px;
-    border-bottom: rgb(39, 32, 24);
+    font-size: 30px;
+    text-shadow: black;
+    border-bottom: burlywood;
     border-right: 0px;
-    border-left:rgb(39, 32, 24);
+    border-left:burlywood;
     border-style:groove;
     float: right;
 }
