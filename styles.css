@@ -53,11 +53,13 @@ ul{
 #navilista1{
     display: inline;
     float: left;
+    list-style-type:square;
 }
 
 #navilista2{
     display: inline;
     float: left;
+    list-style-type:square;
 }
 
 img{
@@ -80,8 +82,7 @@ nav{
     border-right: 0px;
     border-left:burlywood;
     border-style:groove;
-    margin: 10px;
-    padding: 5px;
+    
 }
 aside{
     background-color: khaki;
