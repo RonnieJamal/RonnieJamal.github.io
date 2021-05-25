@@ -80,4 +80,5 @@ nav{
 aside{
     background-color: khaki;
     color: rgb(53, 37, 14);
+    float: left;
 }
