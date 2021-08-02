@@ -1,0 +1,57 @@
+.container{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#containerBackgroundVideo1{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    filter:grayscale(100%);
+}
+
+#karuselli{
+    background: rgba(120, 120, 120, 0.9);
+}
+
+.carouselImgs{
+    height: 400px;
+    width: auto;
+    max-height: 100%;
+    border-radius: 60%;
+    filter:grayscale(100%);
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.carousel-caption{
+    text-shadow: 2px 2px black;
+}
+
+
+
+a:link, a:visited, a:hover, a:active{
+    color:darkslategray;
+    border: white;
+    text-decoration: none;
+    
+}
+
+.nav-item{
+    margin-right: 15px;
+}
+
+.navbar{
+    background-color: rgb(255, 255, 255, 0.9); 
+    text-shadow: 0.5px 0.5px rgb(48, 36, 36);
+}
+
+#minilogo{
+    width: 100px;
+    max-width: 100%;
+    height: auto;
+    margin-right: 50px;
+    margin-top: 20px;
+}
